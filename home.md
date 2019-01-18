@@ -2,8 +2,8 @@
 <!-- SUBTITLE: Product and Service Documentation -->
 
 # SITAMOTO
-[STREETLIGHT](./streetlight)
-[HADEER](http://localhost/hadeer)
+1. [Streetlight](./streetlight)
+1. [Hadeer](./hadeer)
 
 # BRANCHLESS HUB
 [AUTODEBET](http://localhost/autodebet)
