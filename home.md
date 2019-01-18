@@ -2,7 +2,7 @@
 <!-- SUBTITLE: Product and Service Documentation -->
 
 # SITAMOTO
-[**STREETLIGHT**](http://localhost/streetlight)
+[STREETLIGHT](http://localhost/streetlight)
 [**HADEER**](http://localhost/hadeer)
 
 # BRANCHLESS HUB
