@@ -3,9 +3,9 @@
 
 # SITAMOTO
 [STREETLIGHT](http://localhost/streetlight)
-[**HADEER**](http://localhost/hadeer)
+[HADEER](http://localhost/hadeer)
 
 # BRANCHLESS HUB
-[**AUTODEBET**](http://localhost/autodebet)
+[AUTODEBET](http://localhost/autodebet)
 
 
