@@ -6,6 +6,6 @@
 1. [Hadeer](./hadeer)
 
 # BRANCHLESS HUB
-[AUTODEBET](http://localhost/autodebet)
+1. [AutoDebet](./autodebet)
 
 
