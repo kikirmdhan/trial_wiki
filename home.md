@@ -1,4 +1,4 @@
-<!-- TITLE: Documentation -->
+<!-- TITLE: Product Catalogue -->
 <!-- SUBTITLE: Product and Service Documentation -->
 
 # SITAMOTO
