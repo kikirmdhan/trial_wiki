@@ -11,20 +11,26 @@ Guna memenuhi kebutuhan program Otoritas Jasa Keuangan (OJK) yaitu Lakupandai (L
 # Business Documentation
 ### Feature	
 
-* Buka Rekening
-* Deposit
-* Tarik Tunai
-* Cek Saldo
-* Transfer Antar Rekening
-* Transfer Antar Bank
-* Cash to Cash
-* Payment
-* Purchase
-* Setting
-
+| Feature | Description |
+| -------- | -------- |
+| Buka Rekening   | cell 1   |
+| Deposit | cell 2   |
+| Tarik Tunai | cell 3   |
+| Cek Saldo | cell 4   |
+| Transfer antar Rekening | cell 5   |
+| Transfer antar Bank | cell 6   |
+| Cash to Cash | cell 7   |
+| Payment | cell 8   |
+| Purchase | cell 9   |
+| Setting | cell 10   |
 
 ### Business Use Case	
 
 ### Flowchart	
 
 # Technical Documentation
+
+# Visual Documentation
+### Flowchart	
+
+### Flowchart	
